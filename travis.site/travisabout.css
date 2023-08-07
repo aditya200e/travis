@@ -1,0 +1,59 @@
+*{
+    box-sizing: border-box;
+    color: #777;
+}
+html body{
+    margin: 0;
+    padding: 0;
+    
+}
+
+
+
+ul{
+    margin: 0;
+}
+.main-header{
+    background-image: url("traviscover1.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    text-align: center;
+    background-color: rgba(0, 0, 0, .6);
+    background-blend-mode: multiply;
+    padding-bottom: 30px;
+}
+.f1{
+    font-family: 'Shadows Into Light', cursive;
+}
+#about1{
+    font-size: 75px;
+    padding: 0%;
+    margin: 0;
+
+}
+section{
+
+    text-align: center;
+    font-size: 20px;
+}
+#image1{
+    height: 400px;
+    width: 400px;
+    float: left;
+    border-radius: 50%;
+}
+
+.header-nav li{
+    margin: 0;
+    padding: 1em%;
+    display: inline;
+}
+.header-nav{
+    padding-left: 40px;
+    padding: 20px;
+    margin: 0;
+}
+#footer1{
+    text-align: center;
+}
+
